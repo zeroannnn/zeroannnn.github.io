@@ -1,0 +1,42 @@
+body{
+    font-family: "Lucida console" , Monospace;
+    background-color: rgb(218, 176, 231);
+
+}
+hr{
+    size: 2px;
+}
+img{
+    float:right;
+    padding: 0px;
+}
+
+
+p{
+    font-family: "Audiowide" , sans-serif;
+    size: 20px;
+}
+
+.center{
+    float:left;
+}
+
+li{
+    padding:10px;
+}
+
+a:link{
+    color:black;
+}
+
+a:visited{
+    color:red;
+}
+
+a:hover{
+    color:yellow;
+}
+
+a:active{
+    color:blue;
+}
